@@ -1,0 +1,1474 @@
+[
+  {
+    "271": {
+      "pregunta": "El vehículo derivado del turismo está destinado a...",
+      "respuesta_equivocada1": [271, "transporte de personas.", false],
+      "respuesta_equivocada2": [
+        271,
+        "transporte simultaneo o no, de personas y mercanciás",
+        false
+      ],
+      "respuesta_correcta": [
+        271,
+        "servicio o transporte exclusivo de mercancias.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta272": {
+      "pregunta": "Para mejorar la visibilidad por una nube de humo o polvo, ¿qué luces debe utilizar?",
+      "respuesta_equivocada1": [
+        272,
+        "Obligatoriamente la de posición y la antiniebla delantera.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        272,
+        "La de posición y la antiniebla trasera.",
+        false
+      ],
+      "respuesta_correcta": [272, "La de posición y la de corto alcance.", true]
+    }
+  },
+  {
+    "pregunta273": {
+      "pregunta": "¿Con nivel de circulación verde por nevada, la velocidad máxima recomendada en una carretera que no sea autopista ni autovia es de:",
+      "respuesta_equivocada1": [273, "60 km", false],
+      "respuesta_equivocada2": [273, "90 km", false],
+      "respuesta_correcta": [273, "80 km", true]
+    }
+  },
+  {
+    "pregunta274": {
+      "pregunta": "Durante el día, con niebla densa o lluvia intensa ¿se puede circular con la luz de largo alcance encendida?",
+      "respuesta_equivocada1": [
+        274,
+        "No, solo puede encenderse la luz de corto alncance.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        274,
+        "No, la luz de largo alcance sólo puede encenderse de noche.",
+        false
+      ],
+      "respuesta_correcta": [
+        274,
+        "Sí, pero es aconsejable encender la luz de cruce.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta275": {
+      "pregunta": "Las advertencias acústicas pueden utilizarse...",
+      "respuesta_equivocada1": [275, "en vías anchas con pocas curvas.", false],
+      "respuesta_equivocada2": [
+        275,
+        "para advertir del propósito de adelantar únicamente dentro de poblado",
+        false
+      ],
+      "respuesta_correcta": [275, "en vías estrechas con muchas curvas.", true]
+    }
+  },
+  {
+    "pregunta276": {
+      "pregunta": "Dónde se debe colocar un ciclomotor de dos ruedas para girar a la izquierda en una vía interhurbana.",
+      "respuesta_equivocada1": [
+        276,
+        "En la parte central de su carril.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        276,
+        "En en el eje de la calzada si la calzada es de doble sentido.",
+        false
+      ],
+      "respuesta_correcta": [
+        276,
+        "Sí no existe carril especifico para hacer el giro, se situará en la derecha, fuera de la calzada.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta277": {
+      "pregunta": "¿Cual de estos accesorios es obligatorio llevar, en todo caso, entre la dotación de un turismo?",
+      "respuesta_equivocada1": [
+        277,
+        "Una rueda completa de repuesto con las herramientas necesarias.",
+        false
+      ],
+      "respuesta_equivocada2": [277, "Un extintor.", false],
+      "respuesta_correcta": [
+        277,
+        "Un chaleco reflectante de alta visibilidad.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta278": {
+      "pregunta": "En un vehículo de anchura inferior a un metro, ¿puede sobresalir la carga por delante o por detrás?",
+      "respuesta_equivocada1": [
+        278,
+        "Sí, hasta 25 centimetros, por delante y por detrás.",
+        false
+      ],
+      "respuesta_equivocada2": [278, "No, en ningún caso.", false],
+      "respuesta_correcta": [278, "Solo por detrás hasta 25 centímetros.", true]
+    }
+  },
+  {
+    "pregunta279": {
+      "pregunta": "Muchos de los atropellos a peatones se producen...",
+      "respuesta_equivocada1": [279, "en autovia.", false],
+      "respuesta_equivocada2": [279, "durante la noche.", false],
+      "respuesta_correcta": [
+        279,
+        "cuando  los vehículos circulan marcha atras.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta280": {
+      "pregunta": "Durante el día ¿es recomendable llevar encendida la luz de posición y la de cruce?",
+      "respuesta_equivocada1": [
+        280,
+        "No, durante el dia está prohibido llevar encendido el alumbrado de posición y cruce si no existen condiciones de baja visibilidad.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        280,
+        "Sí, es obligatorio llevar encendida durante el invierno.",
+        false
+      ],
+      "respuesta_correcta": [
+        280,
+        "Sí, especialmente si nuestro vehículo no dispone de sistema de luces diurnas (DRL).",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta281": {
+      "pregunta": "las señales realizadas con el brazo por los conductores, ¿son válidas?",
+      "respuesta_equivocada1": [
+        281,
+        "Solo cuando se utilice en poblado.",
+        false
+      ],
+      "respuesta_equivocada2": [281, "Solo cuando se utilice de día.", false],
+      "respuesta_correcta": [281, "Solo cuando se vean bien.", true]
+    }
+  },
+  {
+    "pregunta282": {
+      "pregunta": "En un accidente entro dos vehículos, ¿qué tipo de daños cubre el seguro de responsabilidad civil de suscripción obligatoria?",
+      "respuesta_equivocada1": [282, "Solamente daños materiales.", false],
+      "respuesta_equivocada2": [282, "Solamente los daños personales.", false],
+      "respuesta_correcta": [
+        282,
+        "Los daños personales y los materiales del vehículo no causante del accidente.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta283": {
+      "pregunta": "Si los paneles de mensaje variable indican que los turismos con distintivo ambiental B pueden circular por un carril VAO, ¿qué ocupación mínima debe tener el vehículo?",
+      "respuesta_equivocada1": [
+        283,
+        "Dos ocupantes, sin incluir al conductor.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        283,
+        "Dos ocupantes, incluyendo el conductor.",
+        false
+      ],
+      "respuesta_correcta": [283, "Un ocupante.", true]
+    }
+  },
+  {
+    "pregunta284": {
+      "pregunta": "¿Cada cúanto tiempo es recomendable revisar el estado de los amortiguadores?",
+      "respuesta_equivocada1": [284, "Cada tres años aproximadamente.", false],
+      "respuesta_equivocada2": [284, "Cada cinco años aproximadamente.", false],
+      "respuesta_correcta": [284, "Al menos una vez al año.", true]
+    }
+  },
+  {
+    "pregunta285": {
+      "pregunta": "¿Cual es la velocidad máxima a la que está permitido circular por una autovía con una autocaravana de MMA inferior a 3.500 kg?",
+      "respuesta_equivocada1": [285, "90 km/h", false],
+      "respuesta_equivocada2": [285, "100 km/h", false],
+      "respuesta_correcta": [285, "120 km/h", true]
+    }
+  },
+  {
+    "pregunta286": {
+      "pregunta": "¿Es necesario que un turismo con remolque, lleve una rueda de repuesto del remolque?",
+      "respuesta_equivocada1": [286, "Sí", false],
+      "respuesta_equivocada2": [
+        286,
+        "Sí, cuando el remolque no es ligero",
+        false
+      ],
+      "respuesta_correcta": [286, "No.", true]
+    }
+  },
+  {
+    "pregunta287": {
+      "pregunta": "¿Cual es la edad mínima para viajar como acompañante en una motocicleta conducida por una persona distinta de sus padres o del tutor del menor, o por una persona mayor de edad autorizada?",
+      "respuesta_equivocada1": [287, "14 años.", false],
+      "respuesta_equivocada2": [287, "7 años.", false],
+      "respuesta_correcta": [287, "12 años.", true]
+    }
+  },
+  {
+    "pregunta288": {
+      "pregunta": "Si circula con una motocicleta por una carretera convencional con dos carriles para cada sentido, ¿qué velocidad máxima le está permitido alcanzar para adelantar a otro vehículo?",
+      "respuesta_equivocada1": [288, "120 km/h", false],
+      "respuesta_equivocada2": [288, "80 km/h", false],
+      "respuesta_correcta": [288, "90 km/h", true]
+    }
+  },
+  {
+    "pregunta289": {
+      "pregunta": "¿Cuáles son los cuatro distintivos ambientales para clasificar los vehículos por su pontencial contamiante?",
+      "respuesta_equivocada1": [289, "0 emisiones, ECO, C Y D.", false],
+      "respuesta_equivocada2": [289, "Sin emisiones, ECO, A Y B", false],
+      "respuesta_correcta": [289, "0 emisiones, ECO, C Y B", true]
+    }
+  },
+  {
+    "pregunta290": {
+      "pregunta": "¿En qué tipos de vías se producen más accidentes mortales de ciclistas?",
+      "respuesta_equivocada1": [290, "En las vías urbanas.", false],
+      "respuesta_equivocada2": [290, "En las travesias.", false],
+      "respuesta_correcta": [290, "En las vías interhurbanas.", true]
+    }
+  },
+  {
+    "pregunta291": {
+      "pregunta": "¿Cuándo debe pasar la primera inspección técnica periódica una furgoneta destinada al transporte de mercancías con una MMA inferior a 3.500 kilogramos?",
+      "respuesta_equivocada1": [291, "A los cuatro años de antigüedad.", false],
+      "respuesta_equivocada2": [291, "A los tres años de antigüedad.", false],
+      "respuesta_correcta": [291, "A los dos años de aintigüedad.", true]
+    }
+  },
+  {
+    "pregunta292": {
+      "pregunta": "¿Cuánto puede sobresalir, como máximo, una carga indivisible, en un camión de longitud inferior a 5 metros?",
+      "respuesta_equivocada1": [
+        292,
+        "3 metros tanto por la parte anterior como por la posterior.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        292,
+        "2 metros por la parte anterior y 3 por la parte posterior",
+        false
+      ],
+      "respuesta_correcta": [
+        292,
+        "Un tercio de la longitud del vehículo, tanto por la parte anterior como posterior del vehículo.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta293": {
+      "pregunta": "En un control preventivo, ¿quiénes están obligados a someterse a las pruebas que se establezcan para la detección de alcoholemia?",
+      "respuesta_equivocada1": [
+        293,
+        "Únicamente los conductores de vehículos a motor.",
+        false
+      ],
+      "respuesta_equivocada2": [293, "Todos los usuarios de la vía.", false],
+      "respuesta_correcta": [293, "Los conductores de bicicletas.", true]
+    }
+  },
+  {
+    "pregunta294": {
+      "pregunta": "El permiso de la clase B con más de tres años de aintiguedad, ¿permite conducir por territorio nacional una motocicleta con sidecar?",
+      "respuesta_equivocada1": [
+        294,
+        "Sí, siempre que la cilindrada de la motocicleta no sea superior a 250cc",
+        false
+      ],
+      "respuesta_equivocada2": [294, "No, en ningún caso.", false],
+      "respuesta_correcta": [
+        294,
+        "Sí, siempre que la motocicleta se pueda conducir con el permiso de la clase A1",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta295": {
+      "pregunta": "Si en una vía, el carril izquierdo está abierto en sentido contrario al habitual. ¿Aqué velocidad máxima pueden circular los vehículos que circulen por el carril derecho?",
+      "respuesta_equivocada1": [
+        295,
+        "A la velocidad máxima de la vía, 120 km/h.",
+        false
+      ],
+      "respuesta_equivocada2": [295, "A 80 km/h.", false],
+      "respuesta_correcta": [295, "A 60 km/h.", true]
+    }
+  },
+  {
+    "pregunta296": {
+      "pregunta": "Queda prohibido parar en:",
+      "respuesta_equivocada1": [296, "Curvas y cambios de rasante.", false],
+      "respuesta_equivocada2": [296, "Todas las vías interhurbanas.", false],
+      "respuesta_correcta": [
+        296,
+        "Tramos de vías afectados por la señal Túnel.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta297": {
+      "pregunta": "¿Qué tipo de daños en general, cubre el seguro de responsabilidad civil de suscripción obligatoria?",
+      "respuesta_equivocada1": [297, "Solamente daños materiales.", false],
+      "respuesta_equivocada2": [297, "Solamente los daños personales.", false],
+      "respuesta_correcta": [297, "Los daños personales y materiales.", true]
+    }
+  },
+  {
+    "pregunta298": {
+      "pregunta": "Si no pretende adelantar, ¿cuándo deberá mantener una distancia de seguridad de, al menos, 100 metros, con el vehículo que circule delante?",
+      "respuesta_equivocada1": [
+        298,
+        "Cuando circule por un paso elevado.",
+        false
+      ],
+      "respuesta_equivocada2": [298, "Al llegar a un paso nivel.", false],
+      "respuesta_correcta": [298, "Cuando circule por un túnel.", true]
+    }
+  },
+  {
+    "pregunta299": {
+      "pregunta": "Un conductor ha dado positivo en una pruebaa de estupefacientes, ¿se puede repetir la prueba?",
+      "respuesta_equivocada1": [
+        299,
+        "Sí, si ha dado positivo a más de una sustancia.",
+        false
+      ],
+      "respuesta_equivocada2": [299, "No.", false],
+      "respuesta_correcta": [
+        299,
+        "Sí, si el conductor lo solicita o lo ordena el juez.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta300": {
+      "pregunta": "En un estrechamiento situado en un tramo de gran pendiente. ¿Quién tiene que ceder el paso?",
+      "respuesta_equivocada1": [300, "El vehículo más ligero.", false],
+      "respuesta_equivocada2": [
+        300,
+        "Siempre el que circula en sentido ascendente.",
+        false
+      ],
+      "respuesta_correcta": [
+        300,
+        "El que llegue antes a un ensanchamiento.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta301": {
+      "pregunta": "Las lámparas de xenón...",
+      "respuesta_equivocada1": [
+        301,
+        "aumentan la fatiga ocular del conductor",
+        false
+      ],
+      "respuesta_equivocada2": [
+        301,
+        "ilumina peor la vía, pero reduce la fatiga ocular del conductor.",
+        false
+      ],
+      "respuesta_correcta": [
+        301,
+        "mejoran la iluminación de la vía y reduce la fatiga ocular del conductor.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta302": {
+      "pregunta": "¿Está permitido adelantar por el carril de aceleración a los vehículos que criculan por otros carriles?",
+      "respuesta_equivocada1": [302, "No,", false],
+      "respuesta_equivocada2": [
+        302,
+        "Sí, a condición de no poner en peligro a ningún otro usuario.",
+        false
+      ],
+      "respuesta_correcta": [
+        302,
+        "Sí, porque en este caso no se considera adelantamiento.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta303": {
+      "pregunta": "Para adelantar al grupo de ciclistas, el vehículo rebasa la línea continua y ocupa el carril destinado a la circulación en sentido contrario; ¿es correcto su comportamiento?",
+      "respuesta_equivocada1": [
+        303,
+        "No, porque en este tramo de vía está prohibido el adelantamiento.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        303,
+        "Solo es correcto si no existe una señal vertical que prohiba adelantar.",
+        false
+      ],
+      "respuesta_correcta": [
+        303,
+        "Sí, y debe guardar una separación lateral de, al menos 1,5 metros.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta304": {
+      "pregunta": "Si su turismo se queda averiado durante el día y con tiempo claro en una autopista. ¿Qué luces debe dejar encendidas para advertir dicha círcunstancia?",
+      "respuesta_equivocada1": [
+        304,
+        "Las de posición y las de emergencia.",
+        false
+      ],
+      "respuesta_equivocada2": [304, "únicamente las de posición.", false],
+      "respuesta_correcta": [304, "Sólo las de emergencia.", true]
+    }
+  },
+  {
+    "pregunta305": {
+      "pregunta": "¿Cómo se frena la rueda trasera de una motocicleta?",
+      "respuesta_equivocada1": [
+        305,
+        "Accioando la maneta derecha del manillar.",
+        false
+      ],
+      "respuesta_equivocada2": [305, "Con el pie izquierdo.", false],
+      "respuesta_correcta": [305, "Con el pie derecho.", true]
+    }
+  },
+  {
+    "pregunta306": {
+      "pregunta": "El sistema de ayuda de salida en pendiente, ¿cómo ayudará al conductor?",
+      "respuesta_equivocada1": [
+        306,
+        "Activará el freno de estacionamiento de manera automática y no lo desactivará hasta qeu el conductor presione el acelerador, evitando así que el vehículo se vaya hacia atrás.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        306,
+        "Acelerará rápidamente el motor para evitar que el vehículo se vaya hacia atrás al levantar el pie de freno.",
+        false
+      ],
+      "respuesta_correcta": [
+        306,
+        "A tráves de un sensor que detecta el ángulo de inclinación del vehículo e impide que se vaya hacia atrás al levantar el pie de freno.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta307": {
+      "pregunta": "En caso de condiciónes metereólogicas muy desfavorables, como lluvia muy intensas, ¿se puede circular con la luz antiniebla trasera encendida?",
+      "respuesta_equivocada1": [307, "Sí, aunque se uso es opcional.", false],
+      "respuesta_equivocada2": [
+        307,
+        "No, solo puede utilziarse con niebla densa.",
+        false
+      ],
+      "respuesta_correcta": [307, "Sí.", true]
+    }
+  },
+  {
+    "pregunta308": {
+      "pregunta": "Un persona que se desplaza en silla de ruedas por una carretera que no disponga de espacio especialmente reservado para peatones, ¿debe obedecer las señales de los agentes y de los semáforos dirigidas a los conductores de vehículos?",
+      "respuesta_equivocada1": [
+        308,
+        "No, porque se consideran peatones.",
+        false
+      ],
+      "respuesta_equivocada2": [308, "Solo las de los agentes.", false],
+      "respuesta_correcta": [308, "Sí, siempre.", true]
+    }
+  },
+  {
+    "pregunta309": {
+      "pregunta": "¿En una autopista con tres carriles para un mismo sentido, se puede circular por el carril central?",
+      "respuesta_equivocada1": [
+        309,
+        "Sí, si no se entorpece la marcha de otros vehículos que circulan detrás.",
+        false
+      ],
+      "respuesta_equivocada2": [309, "Sí, si la vía no está saturada.", false],
+      "respuesta_correcta": [
+        309,
+        "No, debe circular por el carril derecho.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta310": {
+      "pregunta": "A un turismo, ¿le está permitido circular con láminas adhesivas o cortinillas contra el sol en las ventanillas traseras?",
+      "respuesta_equivocada1": [310, "Sí, en todo caso.", false],
+      "respuesta_equivocada2": [310, "No, en ningún caso.", false],
+      "respuesta_correcta": [
+        310,
+        "Sólo si el vehículo lleva dos espejos retrovisores.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta311": {
+      "pregunta": "¿Qué características tiene una bicicleta de pedales con pedaleo asistido.",
+      "respuesta_equivocada1": [
+        311,
+        "Es una bicicleta con motor considerada como un ciclomotor.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        311,
+        "Tiene un motor con potencia no superior a 0,5Kw cuya velocidad se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear.",
+        false
+      ],
+      "respuesta_correcta": [
+        311,
+        "Tiene un motor eléctrico auxiliar de hasta 250w, cuya velocidad se interrumpe antes de alcanzar los 25km/h o si se deja de pedalear",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta312": {
+      "pregunta": "Los conductores de vehículos prioritarios cuando circulen en servicio urgente por una autopista o autovía, ¿podrán dar marcha atrás?",
+      "respuesta_equivocada1": [
+        312,
+        "No, estña prohibido para todos los vehículos la circulación marcha atrás en autopistas o autovías.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        312,
+        "Sí, bajo su responsabilidad, ya que está exentos del cumplimiento de las órdenes y señales de circulación.",
+        false
+      ],
+      "respuesta_correcta": [
+        312,
+        "Sí, con carácter excepcional, siempre que no comprometan la seguridad de ningún usuario.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta313": {
+      "pregunta": "¿Cuántos puntos se pueden perder como máximo en un dia?",
+      "respuesta_equivocada1": [313, "12 puntos", false],
+      "respuesta_equivocada2": [313, "10 como máximo", false],
+      "respuesta_correcta": [
+        313,
+        "8 puntos, excepto si las infracciones son muy graves.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta314": {
+      "pregunta": "Cuando se utilice un distintivo ambiental, ¿dónde debe ir colocado en el vehículo?",
+      "respuesta_equivocada1": [314, "En cualquier sitio bien visible.", false],
+      "respuesta_equivocada2": [
+        314,
+        "En el parabrisas delanter, en el ángulo superior derecho.",
+        false
+      ],
+      "respuesta_correcta": [
+        314,
+        "En el parabrisas delanter, en el ángulo inferior derecho.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta315": {
+      "pregunta": "En autopistas y autovías ¿a qué velocidad máxima le está permitido circular al conductor de un vehículo derivado del turismo?",
+      "respuesta_equivocada1": [315, "A 90 kilómetros por hora.", false],
+      "respuesta_equivocada2": [315, "A 120 kilómetros por hora.", false],
+      "respuesta_correcta": [315, "A 100 kilómetros por hora.", true]
+    }
+  },
+  {
+    "pregunta316": {
+      "pregunta": "Si su permiso de conducir tiene un año de antiguedad, ¿cuál es la tasa máxima permitida de alcohol?",
+      "respuesta_equivocada1": [
+        316,
+        "0,30 miligramos por litro de aire espirado.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        316,
+        "0,25 miligramos por litro de aure espirado.",
+        false
+      ],
+      "respuesta_correcta": [
+        316,
+        "0,15 miligramos por litro de aire espirado.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta317": {
+      "pregunta": "¿Qué precaución puede adoptar para evitar riesgo de atropello a ciclista?",
+      "respuesta_equivocada1": [
+        317,
+        "Utilizxar señales luminosas para avisar de su propósito de adelantar.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        317,
+        "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario.",
+        false
+      ],
+      "respuesta_correcta": [
+        317,
+        "No hacer señales acústicas cerca de ellos.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta318": {
+      "pregunta": "Por autopista o autoviá, las ambulancias en servicio de urgencia, ¿podrá circular en sentido contrario?",
+      "respuesta_equivocada1": [
+        318,
+        "Sí, los vehículos prioritarios en servivio urgente están exentos de cumplir cualquier norma de circulación.",
+        false
+      ],
+      "respuesta_equivocada2": [318, "No.", false],
+      "respuesta_correcta": [
+        318,
+        "Sí, siempre que lo hagan por el arcén y no comprometan la seguridad de ningún usuario.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta319": {
+      "pregunta": "En una vía urbana ¿está permitido parar o estacionar en las intersecciónes y en sus proximidades?",
+      "respuesta_equivocada1": [319, "Parar sí, pero no estacionar.", false],
+      "respuesta_equivocada2": [
+        319,
+        "Sí, siempre que no se dificulte la visibilidad de una señal, ni se genere peligro.",
+        false
+      ],
+      "respuesta_correcta": [
+        319,
+        "Sí, cuando no se dificulte el giro autorizado a otros vehículos.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta320": {
+      "pregunta": "En una vía interhurbana, ¿está permitido parar y estacionar en una intersección o en sus proximidades?",
+      "respuesta_equivocada1": [320, "No, nunca.", false],
+      "respuesta_equivocada2": [
+        320,
+        "Sí, cuando no se dificulte el giro a otros vehículos.",
+        false
+      ],
+      "respuesta_correcta": [
+        320,
+        "Si, si se genera peligro por falta de visibilidad.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta321": {
+      "pregunta": "En una autovía, el limite de velocidad para motocicleta es de...",
+      "respuesta_equivocada1": [321, "100 km/h", false],
+      "respuesta_equivocada2": [
+        321,
+        "120 km/h, pudiéndose superar en 20km/h para adelantar.",
+        false
+      ],
+      "respuesta_correcta": [321, "120 km/h", true]
+    }
+  },
+  {
+    "pregunta322": {
+      "pregunta": "Dos vehículos del mismo tipo se encuentran justo en la mitad de este estrechamiento, en el que la prioridad no está señalizada. ¿Cuál de ellos tendrá preferencia de paso?",
+      "respuesta_equivocada1": [
+        322,
+        "El vehículo que tenga que dar marcha atrás una menor distancia.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        322,
+        "El vehículo que tenga que dar marcha atrás con mayor distancia.",
+        false
+      ],
+      "respuesta_correcta": [
+        322,
+        "El vehículo que tenga mayor longitud, anchura o masa máxima autorizada.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta323": {
+      "pregunta": "Siempre que exista espacio suficiente y adoptando las máximas preauciones, está permitido adelantar por la derecha...",
+      "respuesta_equivocada1": [
+        323,
+        "en vías interhurbanas, en las intersecciones y sus proximidades.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        323,
+        "en autopistas y autovías que discurran exclusivamente dentro de poblado.",
+        false
+      ],
+      "respuesta_correcta": [
+        323,
+        "en vías urbanas con dos o más carriles delimitados por líneas longitudinales.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta324": {
+      "pregunta": "Para controlar correctamente los mandos de los pies de una motocicleta, ¿qué calzado es el más adecuado?",
+      "respuesta_equivocada1": [
+        324,
+        "Unas zapatillas de deporte. de suela muy gruesa.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        324,
+        "Cualquier zapato siempre que sea cerrado y deje libre el tobillo.",
+        false
+      ],
+      "respuesta_correcta": [324, "Unas botas altas y con tacón marcado.", true]
+    }
+  },
+  {
+    "pregunta325": {
+      "pregunta": "Según la clasificación de vehículos por su potencial contaminante, ¿qué distintivo ambiental llevará un vehículo híbrido enchufable, con una autonomía mínima de 40 km?",
+      "respuesta_equivocada1": [325, "Eco", false],
+      "respuesta_equivocada2": [325, "El distintivo c", false],
+      "respuesta_correcta": [325, "0 emisiones", true]
+    }
+  },
+  {
+    "pregunta326": {
+      "pregunta": "Un tractor que arrastra un remolque, ¿qué velocidad máxima no debe rebasar fuera de poblado?",
+      "respuesta_equivocada1": [326, "70 kilómetros por hora.", false],
+      "respuesta_equivocada2": [326, "40 kilómetros por hora.", false],
+      "respuesta_correcta": [326, "25 kilómetros por hora.", true]
+    }
+  },
+  {
+    "pregunta327": {
+      "pregunta": "¿Cuál es la pérdida de puntos en caso de sanción por utilizar, sujetado con la mano, el teléfono móvil mientras se encuentra en un semáforo en rojo?",
+      "respuesta_equivocada1": [327, "Perdida de 4 puntos.", false],
+      "respuesta_equivocada2": [327, "Perdida de 3 puntos.", false],
+      "respuesta_correcta": [327, "Perdida de 6 puntos.", true]
+    }
+  },
+  {
+    "pregunta328": {
+      "pregunta": "En una vía interhurbana insuficientemente iluminada, un turismo circula a menos 40 km/h. ¿Puede circular utilizando solo la luz de posición y la de corto alcance?",
+      "respuesta_equivocada1": [
+        328,
+        "No, es obligatorio que circule con la luz de largo alcance.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        328,
+        "Solo cuando circule por una travesía.",
+        false
+      ],
+      "respuesta_correcta": [
+        328,
+        "Sí, aunque puede encender la de largo alcance sei no deslumbra a otros usuarios.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta329": {
+      "pregunta": "Un conductor circula por una calzada muy mjada; si para frenar necesita pisar a fondo el pedal de freno, ¿a qué puede ser debido, principalmente?",
+      "respuesta_equivocada1": [
+        329,
+        "A que el sistema ABS necesita una revisión.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        329,
+        "Al enfriamiento excesivo de los discos de freno.",
+        false
+      ],
+      "respuesta_correcta": [329, "A un fallo del sistema de freno.", true]
+    }
+  },
+  {
+    "pregunta330": {
+      "pregunta": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+      "respuesta_equivocada1": [
+        330,
+        "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        330,
+        "Pisa el pedal de freno en lugar del acelerador.",
+        false
+      ],
+      "respuesta_correcta": [
+        330,
+        "Tarda más tiempo en reaccionar ante una situación de riesgo.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta331": {
+      "pregunta": "Cuando no se puede circular hacia adelante ni cambiar de dirección o sentido de la marcha, ¿se permite circular marcha atrás?",
+      "respuesta_equivocada1": [
+        331,
+        "Sí, pero el recorrido hacia atras no puede ser superior a 15 metros ni se puede invadir un cruce de vías.",
+        false
+      ],
+      "respuesta_equivocada2": [331, "No", false],
+      "respuesta_correcta": [
+        331,
+        "Sí pero solo el recorrido mínimo indispensable.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta332": {
+      "pregunta": "El sistema de seguridad activa (ADAS) conocido como TPM o TPMS, ¿para qué se utiliza?",
+      "respuesta_equivocada1": [
+        332,
+        "Para monitorizar que la presión de inflado de los neumáticos sea la correcta y avisa al conductor en casod e variación",
+        false
+      ],
+      "respuesta_equivocada2": [
+        332,
+        "Para controlar la  presencia de otros vehículos en los ángulos muertos de los retrovisores",
+        false
+      ],
+      "respuesta_correcta": [
+        332,
+        "Para mantener inmovilizado el vehículo cuando se estacione en una pendiente pronunciada.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta333": {
+      "pregunta": "¿Qué es un vehículo de movilidad personal o VMP?",
+      "respuesta_equivocada1": [
+        333,
+        "Un vehículo que debe circular por las aceras y zonas peatonales, no pudiendo invadir la calzada en ningún caso.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        333,
+        "Un vehículo de una o dos plazas, cuya velocidad máxima es de 20km/h.",
+        false
+      ],
+      "respuesta_correcta": [
+        333,
+        "Un vehículo eléctrico de una o más ruedas, de una sola plaza y una velocidad de entre 6 y 25 km/h.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta334": {
+      "pregunta": "¿Cuál es la sanción por utilizar el teléfono móvil sujetandolo con la mano mientras se encuentra detenido en un semáforo en rojo?",
+      "respuesta_equivocada1": [334, "Pérdida de 4 puntos y 200 euros.", false],
+      "respuesta_equivocada2": [334, "Pérdida de 6 puntos y 500 euros.", false],
+      "respuesta_correcta": [334, "Pérdida de 6 puntos y 200 euros.", true]
+    }
+  },
+  {
+    "pregunta335": {
+      "pregunta": "Los agentes de tráfico inmovilizan un vehículo cuando su conductor tiene una tasa de alcohol mayor que la permitida. ¿Cuándo se dejará sin efecto dicha inmovilización?",
+      "respuesta_equivocada1": [
+        335,
+        "Cuando el agente entregue al conductor el boletin de denuncia.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        335,
+        "Cuando el conductor viaje con menores de edad.",
+        false
+      ],
+      "respuesta_correcta": [
+        335,
+        "Cuando desaparezca la causa que la motivo.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta336": {
+      "pregunta": "¿Pueden los conductores de motocicletas conducir utilizando auriculares inalámbricos conectados a un teléfono móvil?",
+      "respuesta_equivocada1": [
+        336,
+        "Sí, porque son dispositivos manos libres",
+        false
+      ],
+      "respuesta_equivocada2": [
+        336,
+        "No, la utilización de estos dispositivos está prohibida en todo caso.",
+        false
+      ],
+      "respuesta_correcta": [
+        336,
+        "Sí, si está certificados u homologados y no afectan a la seguridad en la conducción.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta337": {
+      "pregunta": "La aplicación miDGT ¿sustituye al permiso de conducir?",
+      "respuesta_equivocada1": [
+        337,
+        "No, en nigún caso puede utilizarse para sustituir la obligación de llevar el permiso de conducir.",
+        false
+      ],
+      "respuesta_equivocada2": [337, "Sí, en toda la Unión Europea.", false],
+      "respuesta_correcta": [337, "Sí, pero solo dentro de Rspaña.", true]
+    }
+  },
+  {
+    "pregunta338": {
+      "pregunta": "¿Puede un vehículo de movilidad personal circular por vías interhurbanas?",
+      "respuesta_equivocada1": [
+        338,
+        "No, solo puede circular por vías urbanas y travesias.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        338,
+        "Sí, siempre que circule por el arcén.",
+        false
+      ],
+      "respuesta_correcta": [338, "No", true]
+    }
+  },
+  {
+    "pregunta339": {
+      "pregunta": "En una carretera convencional con separación física de los dos dentidos de circulación en la que se ha fijado un límite máximo de velocidad de 100km/h, ¿a qué velocidad máxima podrá circular una autocaravana de MMA inferior a 3.500 kilogramos?",
+      "respuesta_equivocada1": [339, "A 90 km/h.", false],
+      "respuesta_equivocada2": [339, "A 80 km/h.", false],
+      "respuesta_correcta": [339, "A 100 km/h.", true]
+    }
+  },
+  {
+    "pregunta340": {
+      "pregunta": "Además de estar regulado a la altura idónea, ¿qué separación debe existir entre el reposacabeza y la cabeza para que sea eficaz?",
+      "respuesta_equivocada1": [340, "Superior a 10 centimetros.", false],
+      "respuesta_equivocada2": [
+        340,
+        "La máxima posible y nunca inferior a 5 centímetros.",
+        false
+      ],
+      "respuesta_correcta": [
+        340,
+        "La mínima posible y nunca superior a 4 centímetros.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta341": {
+      "pregunta": "Además de estar regulado a la altura idónea, ¿qué separación debe existir entre el reposacabezas y la cabeza para que sea eficaz?",
+      "respuesta_equivocada1": [341, "Superior a 10 centimetros.", false],
+      "respuesta_equivocada2": [
+        341,
+        "La máxima posible y nunca inferior a 5 centimetros.",
+        false
+      ],
+      "respuesta_correcta": [
+        341,
+        "La mínima posible y nunca superior a 4 centímetros.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta342": {
+      "pregunta": "Los conductores, ¿pueden llevar en los óidos cascos o auriculares conectados a un teléfono móvil mientras conducen?",
+      "respuesta_equivocada1": [
+        342,
+        "No, excepto los conductores de bicicletas y de vehículos de movilidad personal",
+        false
+      ],
+      "respuesta_equivocada2": [
+        342,
+        "Sí, siempre que los auriculares sean inalambricos.",
+        false
+      ],
+      "respuesta_correcta": [
+        342,
+        "No, está prohibido como norma general.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta343": {
+      "pregunta": "El sistema ADAS de Alerta de tráfico cruzado o RCTA ¿A qué velocidad interviene en los frenos del vehículo en caso de colisión inminente?",
+      "respuesta_equivocada1": [
+        343,
+        "A cualquier velocidad, pero solo cuando se circule marcha atras.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        343,
+        "A una velocidad inferior o igual a 30 km/h.",
+        false
+      ],
+      "respuesta_correcta": [343, "A una velocidad inferior a 15 km/h.", true]
+    }
+  },
+  {
+    "pregunta344": {
+      "pregunta": "Un camión o furgón que transporte mercancías peligrosas, ¿qué velocidad podrá alcanzar como máximo cuando circula por una autopista o una autovía?",
+      "respuesta_equivocada1": [344, "70 kilómetros por hora.", false],
+      "respuesta_equivocada2": [344, "90 kilómetros por hora.", false],
+      "respuesta_correcta": [344, "80 kilómetros por hora.", true]
+    }
+  },
+  {
+    "pregunta345": {
+      "pregunta": "¿Qué sistema de retención infantil asegura un montaje correcto y más sencillo, además de una sujeción más firme?",
+      "respuesta_equivocada1": [
+        345,
+        "El sistema de anclaje por cinturón de seguridad.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        345,
+        "Rl sistema de correas de sujeción",
+        false
+      ],
+      "respuesta_correcta": [345, "El sistema ISOFIX.", true]
+    }
+  },
+  {
+    "pregunta346": {
+      "pregunta": "El hecho de circular con un vehículo por una vía pública  si haber superado la inspección técnica periódica estando obligado a ello, es constitutivo de...",
+      "respuesta_equivocada1": [
+        346,
+        "ina infracción que conlleva la pérdida de 3 puntos.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        346,
+        "un delito contra la seguridad vial que conlleva la perdida de 3 puntos.",
+        false
+      ],
+      "respuesta_correcta": [
+        346,
+        "una infracción sin detracción de punto.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta347": {
+      "pregunta": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciónes de tráfico ofrecen más dificultades a las personas mayores?",
+      "respuesta_equivocada1": [
+        347,
+        "Los giros a la izquierda, especialmente en vías urbanas.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        347,
+        "Los estacionamientos sobre todo cuando se realizan a la derecha de la calzada.",
+        false
+      ],
+      "respuesta_correcta": [
+        347,
+        "Las situaciones complejas como incorporarse a una vía en la que se circula a alta velocidad.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta348": {
+      "pregunta": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de travesía insuficientemente iluminada?",
+      "respuesta_equivocada1": [
+        348,
+        "Ninguno, ya que es un estacionamiento dentro de poblado.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        348,
+        "Las luces de largo alcance y las luces de emergencia.",
+        false
+      ],
+      "respuesta_correcta": [
+        348,
+        "Las luces de posición, que podrá sustituir por las de estacionamiento.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta349": {
+      "pregunta": "Si, un vehículo queda detenido por avería en un paso a nivel, el conductor debe adoptar en primer lugar las medidas necesrias para...",
+      "respuesta_equivocada1": [
+        349,
+        "desconectar los bornes de la batería del vehículo.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        349,
+        "colocar el triángulo de preseñalización de peligro en la vía.",
+        false
+      ],
+      "respuesta_correcta": [
+        349,
+        "que todos los ocupantes abandonen el vehículo.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta350": {
+      "pregunta": "Un conductor que, pese a poder hacerlo sin riesgo, no se detiene a ayudar a una víctima grave de accidente que se encuentra desamparada, ¿podría estar cometiendo un delito?",
+      "respuesta_equivocada1": [
+        350,
+        "Sí, pero si el conductor está implicado en el accidente.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        350,
+        "No, ayudar a las víctimas es un gesto de solidaridad, pero no es un deber.",
+        false
+      ],
+      "respuesta_correcta": [
+        350,
+        "Sí, aunque el conductor no esté implicado en el accidente.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta351": {
+      "pregunta": "¿puede perder puntos de su daldo si pone en peligro a un grupo de ciclistas durante un adelantamiento?",
+      "respuesta_equivocada1": [
+        351,
+        "No,  porque es un delito contra la seguridad víal, no una sanción administrativa.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        351,
+        "No, es una infracción que no supone la pérdida de puntos.",
+        false
+      ],
+      "respuesta_correcta": [
+        351,
+        "Sí es una infracción que supone la pérdida de 6 puntos.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta352": {
+      "pregunta": "La carga transportada en un turismo no deberá...",
+      "respuesta_equivocada1": [
+        352,
+        "descargarse por el lado del vehículo más próximo al borde de la calzada",
+        false
+      ],
+      "respuesta_equivocada2": [
+        352,
+        "sobresalir por la parte posterior más de un 5% de su longitud.",
+        false
+      ],
+      "respuesta_correcta": [352, "comprometer su estabilidad.", true]
+    }
+  },
+  {
+    "pregunta353": {
+      "pregunta": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circula de noche?",
+      "respuesta_equivocada1": [
+        353,
+        "No, si lleva puestas prendas reflectantes.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        353,
+        "Solo cuando cicula por vías interhurbanas.",
+        false
+      ],
+      "respuesta_correcta": [353, "Sí", true]
+    }
+  },
+  {
+    "pregunta354": {
+      "pregunta": "¿Está permitido que un turismo adelante a una bicicleta en las proximidades de un paso a nivel?",
+      "respuesta_equivocada1": [
+        354,
+        "Sí, siempre que se guarde una separación lateral de un metro y medio.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        354,
+        "No, está prohibido adelantar en los pasos a nivel y en sus proximidades en todo caso.",
+        false
+      ],
+      "respuesta_correcta": [
+        354,
+        "Sí, si las dimensiónes de la bicicleta no impiden la visibilidad lateral, y previas a las oportunas señales acústicas u ópticas.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta355": {
+      "pregunta": "Siempre que el recorrido hacia atrás no supere los 15 metros ni invada un cruce de vías, podrá circular marcha atrás...",
+      "respuesta_equivocada1": [
+        355,
+        "cuando no sea posible cambiar de dirección o sentido de la marcha.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        355,
+        "en autovías y autopistas que discurran por poblado.",
+        false
+      ],
+      "respuesta_correcta": [
+        355,
+        "como maniobra complementaria de la parada.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta356": {
+      "pregunta": "Un neumático bajo de presión:",
+      "respuesta_equivocada1": [
+        356,
+        "Presenta un menor riesgo de reventar.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        356,
+        "Se desgasta más rápidamente por el centro de la banda de rodadura.",
+        false
+      ],
+      "respuesta_correcta": [
+        356,
+        "Hace que aumente el consumo de combustible.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta357": {
+      "pregunta": "En una autopista, ¿está permitido hacer un cambio de sentido de la marcha utilizando el paso de la mediana?",
+      "respuesta_equivocada1": [
+        357,
+        "Sí, salvo que esté expresamente prohibido por una señal.",
+        false
+      ],
+      "respuesta_equivocada2": [357, "Sí, cuando esté abierto.", false],
+      "respuesta_correcta": [357, "No, porque está prohibido.", true]
+    }
+  },
+  {
+    "pregunta358": {
+      "pregunta": "¿Cuando existe obligación de llevar el vehículo a una estación ITV para que pase una inspección?",
+      "respuesta_equivocada1": [
+        358,
+        "Cuando el vehículo cambie de titular o de conductor.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        358,
+        "Cuando sufra un accidente que requiera cualquier tipo de reparación.",
+        false
+      ],
+      "respuesta_correcta": [
+        358,
+        "Cuando se realice en el vehículo una reforma de importacia.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta359": {
+      "pregunta": "El equipaje en la baca de un turismo, ¿puede sobresalir por los lados?",
+      "respuesta_equivocada1": [
+        359,
+        "Sí, cuando el equipaje es ancho y no se puede dividir.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        359,
+        "Sí, pero el ancho total tiene que ser menos de 2,5",
+        false
+      ],
+      "respuesta_correcta": [359, "No", true]
+    }
+  },
+  {
+    "pregunta360": {
+      "pregunta": "¿Cuál es la edad mínima para viajar como acompañante en una motocicleta conducida por alguien distinto a los padres o al tutor del menor, o por una persona mayor de edad autorizada?",
+      "respuesta_equivocada1": [360, "7 años", false],
+      "respuesta_equivocada2": [360, "14 años", false],
+      "respuesta_correcta": [360, "12 años", true]
+    }
+  },
+  {
+    "pregunta361": {
+      "pregunta": "La cinta torácica del cinturón de seguridad puede provocar lesiones graves durante un accidente si se coloca...",
+      "respuesta_equivocada1": [361, "sobre el hombro.", false],
+      "respuesta_equivocada2": [361, "sobre la clavícula.", false],
+      "respuesta_correcta": [361, "sobre el cuello.", true]
+    }
+  },
+  {
+    "pregunta362": {
+      "pregunta": "¿Cuáles son los daños no cubiertos por el seguro obligatorio al causante de un accidente?",
+      "respuesta_equivocada1": [
+        362,
+        "Los daños que se produzcan en el vehículo.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        362,
+        "Los daños personales que sufran los ocupantes del vehículo causante del accidente.",
+        false
+      ],
+      "respuesta_correcta": [
+        362,
+        "Los daños personales que sufra el conductor responsable.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta363": {
+      "pregunta": "Está prohibido hacer un cambio de dirección a la izquierda cuando no existe...",
+      "respuesta_equivocada1": [
+        363,
+        "un lugar acondicionado expresamente para hacerlo.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        363,
+        "una señal que lo autorice expresamente.",
+        false
+      ],
+      "respuesta_correcta": [363, "visibilidad suficiente.", true]
+    }
+  },
+  {
+    "pregunta364": {
+      "pregunta": "En los desplazamientos laterales, ¿es suficiente con mirar por los espejos retrovisores?",
+      "respuesta_equivocada1": [364, "Sí, en cualquier caso.", false],
+      "respuesta_equivocada2": [364, "No, no es necesario.", false],
+      "respuesta_correcta": [
+        364,
+        "No, es conveniente girar la cabeza para controlar adecuadamente el ángulo muerto.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta365": {
+      "pregunta": "En caso de niebla espesa, ¿qué iluminación es obligatorio para circular con su turismo?",
+      "respuesta_equivocada1": [365, "Las luces antiniebla delantera.", false],
+      "respuesta_equivocada2": [
+        365,
+        "Las luces antiniebla delanteras, junto con las de posición y las de corto alcance.",
+        false
+      ],
+      "respuesta_correcta": [
+        365,
+        "Las luces antinebla trasera, junto con als de posición y las de corto alcance.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta366": {
+      "pregunta": "En caso de emergencia, ¿cómo se debe frenar?",
+      "respuesta_equivocada1": [
+        366,
+        "Pisando y soltando el pedal de freno de manera intermitente hasta detener el vehículo.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        366,
+        "Pisando el pedal del freno suavemente y de forma continua.",
+        false
+      ],
+      "respuesta_correcta": [
+        366,
+        "Pisando el pedal de freno con fuerza pero sin llegar a bloquear las ruedas.",
+        true
+      ]
+    }
+  },
+  {
+    "pregunta367": {
+      "pregunta": "Para las motocicletas, ¿es obligatorio el uso del alumbrado de corto alcance durante el día?",
+      "respuesta_equivocada1": [367, "No, pero es aconsejable.", false],
+      "respuesta_equivocada2": [
+        367,
+        "Sí, pero únicamente en vías urbanas.",
+        false
+      ],
+      "respuesta_correcta": [367, "Sí", true]
+    }
+  },
+  {
+    "pregunta368": {
+      "pregunta": "¿Qué indica los conos en la calzada?",
+      "respuesta_equivocada1": [
+        368,
+        "Nada, no son señales de circulación.",
+        false
+      ],
+      "respuesta_equivocada2": [
+        368,
+        "Refuerzan el significado de las líneas discontinuas.",
+        false
+      ],
+      "respuesta_correcta": [
+        368,
+        "La prohibición de superar la línea imaginaria que los une.",
+        true
+      ]
+    }
+  }
+]

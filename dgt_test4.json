@@ -1,0 +1,723 @@
+[
+  {
+    "pregunta369": {
+      "imagen" : "images/pregunta_369c.jpg",
+      "pregunta": "Esta señal indica...",
+      "respuesta_equivocada1": [369, "la distancia que falta para entrar en un túnel", false],
+      "respuesta_equivocada2": [369, "el comienzo de un túnel y su longitud.", false],
+      "respuesta_correcta": [369, "la situación, a la distancia indicada, de un monumento y obra histórica", true]
+    }
+  },
+  {
+    "pregunta370": {
+      "pregunta": "El riesgo de sufrir un accidente puede verse incrementado si tiene alergia al polen. Para disminuir dicho riesgo cuando la concentración de polen es elevada, se recomienda...",
+      "respuesta_equivocada1": [370, "llevar la ventilación exterior, incluso si el vehículo no tiene filtros antipolen.", false],
+      "respuesta_equivocada2": [370, "circular con ventanillas abiertas para que el aire expulse el polen del vehículo.", false],
+      "respuesta_correcta": [370, "evitar conducción al amanecer y por caminos donde la vegetación sea abundante.", true]
+    }
+  },
+  {
+    "pregunta371": {
+      "pregunta": "¿Cada cuánto tiempo deben pasar la I.T.V las ambulancias de más de 5 años?",
+      "respuesta_equivocada1": [3, "cada 2 años.", false],
+      "respuesta_equivocada2": [3, "cada 5 años.", false],
+      "respuesta_correcta": [3, "cada 6 meses.", true]
+    }
+  },
+  {
+    "pregunta372": {
+      "pregunta": "¿Pueden un vehículo circular sobre la línea discontinua?",
+      "respuesta_equivocada1": [4, "No, en ningún caso.", false],
+      "respuesta_equivocada2": [4, "Sí, puede recorrer variós kilómetros pisándola", false],
+      "respuesta_correcta": [4, "Sí, pero únicamente cuando sea impresindible hacerlo.", true]
+    }
+  },
+  {
+    "pregunta373": {
+      "pregunta": "A falta de señalización, ¿cual es la velocidad máxima permitida para una furgoneta cuando circule por una autovía que discurra dentro del poblado?",
+      "respuesta_equivocada1": [373, "80 km/h", false],
+      "respuesta_equivocada2": [373, "100 km/h", false],
+      "respuesta_correcta": [373, "90 km/h", true]
+    }
+  },
+  {
+    "pregunta374": {
+      "pregunta": "¿Cuál es la finalidad de la cámara de visión posterior que equipan algunos vehículos y que se activa al introducir la marcha atrás?",
+      "respuesta_equivocada1": [374, "Avisar de la próximidad de un obstáculo por medio de señales acústicas.", false],
+      "respuesta_equivocada2": [374, "la detección automática del vehículo si existe riesgo de colisión.", false],
+      "respuesta_correcta": [374, "Facilitar una mejor visión del entorno por la parte posterior del vehículo.", true]
+    }
+  },
+  {
+    "pregunta375": {
+      "pregunta": "El conductor de un vehículo de movilidad personal, ¿está obligado a someterse a las pruebas para la detección de alcohol en el organismo?",
+      "respuesta_equivocada1": [375, "Sí pero solo si está implicado en un accidente de tráfico.", false],
+      "respuesta_equivocada2": [375, "No, excepto sí presenta sintomas de conducir bajo la influencia de bebidas alchólicas.", false],
+      "respuesta_correcta": [375, "Sí, en la misma condición que el resto de conductores.", true]
+    }
+  },
+  {
+    "pregunta376": {
+      "pregunta": "Cuando no se puede colocar el vehículo paralelo al borde de la calzada, ¿se podrá permitir la parada o el estacionamiento dejando el vehículo en otra posición?",
+      "respuesta_equivocada1": [376, "No, en ningún caso.", false],
+      "respuesta_equivocada2": [376, "Sólo si hay alguna señal que permita el estacionamiento en batería.", false],
+      "respuesta_correcta": [376, "Sí, cuando las carácteristicas de la vía u otras circunstancias así lo aconsejen.", true]
+    }
+  },
+  {
+    "pregunta9": {
+      "pregunta": "",
+      "respuesta_equivocada1": [9, "", false],
+      "respuesta_equivocada2": [9, "", false],
+      "respuesta_correcta": [9, "", true]
+    }
+  },
+  {
+    "pregunta10": {
+      "pregunta": "",
+      "respuesta_equivocada1": [10, "", false],
+      "respuesta_equivocada2": [10, "", false],
+      "respuesta_correcta": [10, "", true]
+    }
+  },
+  {
+    "pregunta11": {
+      "pregunta": "",
+      "respuesta_equivocada1": [11, "", false],
+      "respuesta_equivocada2": [11, "", false],
+      "respuesta_correcta": [11, "", true]
+    }
+  },
+  {
+    "pregunta12": {
+      "pregunta": "",
+      "respuesta_equivocada1": [12, "", false],
+      "respuesta_equivocada2": [12, "", false],
+      "respuesta_correcta": [12, "", true]
+    }
+  },
+  {
+    "pregunta13": {
+      "pregunta": "",
+      "respuesta_equivocada1": [13, "", false],
+      "respuesta_equivocada2": [13, "", false],
+      "respuesta_correcta": [13, "", true]
+    }
+  },
+  {
+    "pregunta14": {
+      "pregunta": "",
+      "respuesta_equivocada1": [14, "", false],
+      "respuesta_equivocada2": [14, "", false],
+      "respuesta_correcta": [14, "", true]
+    }
+  },
+  {
+    "pregunta15": {
+      "pregunta": "",
+      "respuesta_equivocada1": [15, "", false],
+      "respuesta_equivocada2": [15, "", false],
+      "respuesta_correcta": [15, "", true]
+    }
+  },
+  {
+    "pregunta16": {
+      "pregunta": "",
+      "respuesta_equivocada1": [16, "", false],
+      "respuesta_equivocada2": [16, "", false],
+      "respuesta_correcta": [16, "", true]
+    }
+  },
+  {
+    "pregunta17": {
+      "pregunta": "",
+      "respuesta_equivocada1": [17, "", false],
+      "respuesta_equivocada2": [17, "", false],
+      "respuesta_correcta": [17, "", true]
+    }
+  },
+  {
+    "pregunta18": {
+      "pregunta": "",
+      "respuesta_equivocada1": [18, "", false],
+      "respuesta_equivocada2": [18, "", false],
+      "respuesta_correcta": [18, "", true]
+    }
+  },
+  {
+    "pregunta19": {
+      "pregunta": "",
+      "respuesta_equivocada1": [19, "", false],
+      "respuesta_equivocada2": [19, "", false],
+      "respuesta_correcta": [19, "", true]
+    }
+  },
+  {
+    "pregunta20": {
+      "pregunta": "",
+      "respuesta_equivocada1": [20, "", false],
+      "respuesta_equivocada2": [20, "", false],
+      "respuesta_correcta": [20, "", true]
+    }
+  },
+  {
+    "pregunta21": {
+      "pregunta": "",
+      "respuesta_equivocada1": [21, "", false],
+      "respuesta_equivocada2": [21, "", false],
+      "respuesta_correcta": [21, "", true]
+    }
+  },
+  {
+    "pregunta22": {
+      "pregunta": "",
+      "respuesta_equivocada1": [22, "", false],
+      "respuesta_equivocada2": [22, "", false],
+      "respuesta_correcta": [22, "", true]
+    }
+  },
+  {
+    "pregunta23": {
+      "pregunta": "",
+      "respuesta_equivocada1": [23, "", false],
+      "respuesta_equivocada2": [23, "", false],
+      "respuesta_correcta": [23, "", true]
+    }
+  },
+  {
+    "pregunta24": {
+      "pregunta": "",
+      "respuesta_equivocada1": [24, "", false],
+      "respuesta_equivocada2": [24, "", false],
+      "respuesta_correcta": [24, "", true]
+    }
+  },
+  {
+    "pregunta25": {
+      "pregunta": "",
+      "respuesta_equivocada1": [25, "", false],
+      "respuesta_equivocada2": [25, "", false],
+      "respuesta_correcta": [25, "", true]
+    }
+  },
+  {
+    "pregunta26": {
+      "pregunta": "",
+      "respuesta_equivocada1": [26, "", false],
+      "respuesta_equivocada2": [26, "", false],
+      "respuesta_correcta": [26, "", true]
+    }
+  },
+  {
+    "pregunta27": {
+      "pregunta": "",
+      "respuesta_equivocada1": [27, "", false],
+      "respuesta_equivocada2": [27, "", false],
+      "respuesta_correcta": [27, "", true]
+    }
+  },
+  {
+    "pregunta28": {
+      "pregunta": "",
+      "respuesta_equivocada1": [28, "", false],
+      "respuesta_equivocada2": [28, "", false],
+      "respuesta_correcta": [28, "", true]
+    }
+  },
+  {
+    "pregunta29": {
+      "pregunta": "",
+      "respuesta_equivocada1": [29, "", false],
+      "respuesta_equivocada2": [29, "", false],
+      "respuesta_correcta": [29, "", true]
+    }
+  },
+  {
+    "pregunta30": {
+      "pregunta": "",
+      "respuesta_equivocada1": [30, "", false],
+      "respuesta_equivocada2": [30, "", false],
+      "respuesta_correcta": [30, "", true]
+    }
+  },
+  {
+    "pregunta31": {
+      "pregunta": "",
+      "respuesta_equivocada1": [31, "", false],
+      "respuesta_equivocada2": [31, "", false],
+      "respuesta_correcta": [31, "", true]
+    }
+  },
+  {
+    "pregunta32": {
+      "pregunta": "",
+      "respuesta_equivocada1": [32, "", false],
+      "respuesta_equivocada2": [32, "", false],
+      "respuesta_correcta": [32, "", true]
+    }
+  },
+  {
+    "pregunta33": {
+      "pregunta": "",
+      "respuesta_equivocada1": [33, "", false],
+      "respuesta_equivocada2": [33, "", false],
+      "respuesta_correcta": [33, "", true]
+    }
+  },
+  {
+    "pregunta34": {
+      "pregunta": "",
+      "respuesta_equivocada1": [34, "", false],
+      "respuesta_equivocada2": [34, "", false],
+      "respuesta_correcta": [34, "", true]
+    }
+  },
+  {
+    "pregunta35": {
+      "pregunta": "",
+      "respuesta_equivocada1": [35, "", false],
+      "respuesta_equivocada2": [35, "", false],
+      "respuesta_correcta": [35, "", true]
+    }
+  },
+  {
+    "pregunta36": {
+      "pregunta": "",
+      "respuesta_equivocada1": [36, "", false],
+      "respuesta_equivocada2": [36, "", false],
+      "respuesta_correcta": [36, "", true]
+    }
+  },
+  {
+    "pregunta37": {
+      "pregunta": "",
+      "respuesta_equivocada1": [37, "", false],
+      "respuesta_equivocada2": [37, "", false],
+      "respuesta_correcta": [37, "", true]
+    }
+  },
+  {
+    "pregunta38": {
+      "pregunta": "",
+      "respuesta_equivocada1": [38, "", false],
+      "respuesta_equivocada2": [38, "", false],
+      "respuesta_correcta": [38, "", true]
+    }
+  },
+  {
+    "pregunta39": {
+      "pregunta": "",
+      "respuesta_equivocada1": [39, "", false],
+      "respuesta_equivocada2": [39, "", false],
+      "respuesta_correcta": [39, "", true]
+    }
+  },
+  {
+    "pregunta40": {
+      "pregunta": "",
+      "respuesta_equivocada1": [40, "", false],
+      "respuesta_equivocada2": [40, "", false],
+      "respuesta_correcta": [40, "", true]
+    }
+  },
+  {
+    "pregunta41": {
+      "pregunta": "",
+      "respuesta_equivocada1": [41, "", false],
+      "respuesta_equivocada2": [41, "", false],
+      "respuesta_correcta": [41, "", true]
+    }
+  },
+  {
+    "pregunta42": {
+      "pregunta": "",
+      "respuesta_equivocada1": [42, "", false],
+      "respuesta_equivocada2": [42, "", false],
+      "respuesta_correcta": [42, "", true]
+    }
+  },
+  {
+    "pregunta43": {
+      "pregunta": "",
+      "respuesta_equivocada1": [43, "", false],
+      "respuesta_equivocada2": [43, "", false],
+      "respuesta_correcta": [43, "", true]
+    }
+  },
+  {
+    "pregunta44": {
+      "pregunta": "",
+      "respuesta_equivocada1": [44, "", false],
+      "respuesta_equivocada2": [44, "", false],
+      "respuesta_correcta": [44, "", true]
+    }
+  },
+  {
+    "pregunta45": {
+      "pregunta": "",
+      "respuesta_equivocada1": [45, "", false],
+      "respuesta_equivocada2": [45, "", false],
+      "respuesta_correcta": [45, "", true]
+    }
+  },
+  {
+    "pregunta46": {
+      "pregunta": "",
+      "respuesta_equivocada1": [46, "", false],
+      "respuesta_equivocada2": [46, "", false],
+      "respuesta_correcta": [46, "", true]
+    }
+  },
+  {
+    "pregunta47": {
+      "pregunta": "",
+      "respuesta_equivocada1": [47, "", false],
+      "respuesta_equivocada2": [47, "", false],
+      "respuesta_correcta": [47, "", true]
+    }
+  },
+  {
+    "pregunta48": {
+      "pregunta": "",
+      "respuesta_equivocada1": [48, "", false],
+      "respuesta_equivocada2": [48, "", false],
+      "respuesta_correcta": [48, "", true]
+    }
+  },
+  {
+    "pregunta49": {
+      "pregunta": "",
+      "respuesta_equivocada1": [49, "", false],
+      "respuesta_equivocada2": [49, "", false],
+      "respuesta_correcta": [49, "", true]
+    }
+  },
+  {
+    "pregunta50": {
+      "pregunta": "",
+      "respuesta_equivocada1": [50, "", false],
+      "respuesta_equivocada2": [50, "", false],
+      "respuesta_correcta": [50, "", true]
+    }
+  },
+  {
+    "pregunta51": {
+      "pregunta": "",
+      "respuesta_equivocada1": [51, "", false],
+      "respuesta_equivocada2": [51, "", false],
+      "respuesta_correcta": [51, "", true]
+    }
+  },
+  {
+    "pregunta52": {
+      "pregunta": "",
+      "respuesta_equivocada1": [52, "", false],
+      "respuesta_equivocada2": [52, "", false],
+      "respuesta_correcta": [52, "", true]
+    }
+  },
+  {
+    "pregunta53": {
+      "pregunta": "",
+      "respuesta_equivocada1": [53, "", false],
+      "respuesta_equivocada2": [53, "", false],
+      "respuesta_correcta": [53, "", true]
+    }
+  },
+  {
+    "pregunta54": {
+      "pregunta": "",
+      "respuesta_equivocada1": [54, "", false],
+      "respuesta_equivocada2": [54, "", false],
+      "respuesta_correcta": [54, "", true]
+    }
+  },
+  {
+    "pregunta55": {
+      "pregunta": "",
+      "respuesta_equivocada1": [55, "", false],
+      "respuesta_equivocada2": [55, "", false],
+      "respuesta_correcta": [55, "", true]
+    }
+  },
+  {
+    "pregunta56": {
+      "pregunta": "",
+      "respuesta_equivocada1": [56, "", false],
+      "respuesta_equivocada2": [56, "", false],
+      "respuesta_correcta": [56, "", true]
+    }
+  },
+  {
+    "pregunta57": {
+      "pregunta": "",
+      "respuesta_equivocada1": [57, "", false],
+      "respuesta_equivocada2": [57, "", false],
+      "respuesta_correcta": [57, "", true]
+    }
+  },
+  {
+    "pregunta58": {
+      "pregunta": "",
+      "respuesta_equivocada1": [58, "", false],
+      "respuesta_equivocada2": [58, "", false],
+      "respuesta_correcta": [58, "", true]
+    }
+  },
+  {
+    "pregunta59": {
+      "pregunta": "",
+      "respuesta_equivocada1": [59, "", false],
+      "respuesta_equivocada2": [59, "", false],
+      "respuesta_correcta": [59, "", true]
+    }
+  },
+  {
+    "pregunta60": {
+      "pregunta": "",
+      "respuesta_equivocada1": [60, "", false],
+      "respuesta_equivocada2": [60, "", false],
+      "respuesta_correcta": [60, "", true]
+    }
+  },
+  {
+    "pregunta61": {
+      "pregunta": "",
+      "respuesta_equivocada1": [61, "", false],
+      "respuesta_equivocada2": [61, "", false],
+      "respuesta_correcta": [61, "", true]
+    }
+  },
+  {
+    "pregunta62": {
+      "pregunta": "",
+      "respuesta_equivocada1": [62, "", false],
+      "respuesta_equivocada2": [62, "", false],
+      "respuesta_correcta": [62, "", true]
+    }
+  },
+  {
+    "pregunta63": {
+      "pregunta": "",
+      "respuesta_equivocada1": [63, "", false],
+      "respuesta_equivocada2": [63, "", false],
+      "respuesta_correcta": [63, "", true]
+    }
+  },
+  {
+    "pregunta64": {
+      "pregunta": "",
+      "respuesta_equivocada1": [64, "", false],
+      "respuesta_equivocada2": [64, "", false],
+      "respuesta_correcta": [64, "", true]
+    }
+  },
+  {
+    "pregunta65": {
+      "pregunta": "",
+      "respuesta_equivocada1": [65, "", false],
+      "respuesta_equivocada2": [65, "", false],
+      "respuesta_correcta": [65, "", true]
+    }
+  },
+  {
+    "pregunta66": {
+      "pregunta": "",
+      "respuesta_equivocada1": [66, "", false],
+      "respuesta_equivocada2": [66, "", false],
+      "respuesta_correcta": [66, "", true]
+    }
+  },
+  {
+    "pregunta67": {
+      "pregunta": "",
+      "respuesta_equivocada1": [67, "", false],
+      "respuesta_equivocada2": [67, "", false],
+      "respuesta_correcta": [67, "", true]
+    }
+  },
+  {
+    "pregunta68": {
+      "pregunta": "",
+      "respuesta_equivocada1": [68, "", false],
+      "respuesta_equivocada2": [68, "", false],
+      "respuesta_correcta": [68, "", true]
+    }
+  },
+  {
+    "pregunta69": {
+      "pregunta": "",
+      "respuesta_equivocada1": [69, "", false],
+      "respuesta_equivocada2": [69, "", false],
+      "respuesta_correcta": [69, "", true]
+    }
+  },
+  {
+    "pregunta70": {
+      "pregunta": "",
+      "respuesta_equivocada1": [70, "", false],
+      "respuesta_equivocada2": [70, "", false],
+      "respuesta_correcta": [70, "", true]
+    }
+  },
+  {
+    "pregunta71": {
+      "pregunta": "",
+      "respuesta_equivocada1": [71, "", false],
+      "respuesta_equivocada2": [71, "", false],
+      "respuesta_correcta": [71, "", true]
+    }
+  },
+  {
+    "pregunta72": {
+      "pregunta": "",
+      "respuesta_equivocada1": [72, "", false],
+      "respuesta_equivocada2": [72, "", false],
+      "respuesta_correcta": [72, "", true]
+    }
+  },
+  {
+    "pregunta73": {
+      "pregunta": "",
+      "respuesta_equivocada1": [73, "", false],
+      "respuesta_equivocada2": [73, "", false],
+      "respuesta_correcta": [73, "", true]
+    }
+  },
+  {
+    "pregunta74": {
+      "pregunta": "",
+      "respuesta_equivocada1": [74, "", false],
+      "respuesta_equivocada2": [74, "", false],
+      "respuesta_correcta": [74, "", true]
+    }
+  },
+  {
+    "pregunta75": {
+      "pregunta": "",
+      "respuesta_equivocada1": [75, "", false],
+      "respuesta_equivocada2": [75, "", false],
+      "respuesta_correcta": [75, "", true]
+    }
+  },
+  {
+    "pregunta76": {
+      "pregunta": "",
+      "respuesta_equivocada1": [76, "", false],
+      "respuesta_equivocada2": [76, "", false],
+      "respuesta_correcta": [76, "", true]
+    }
+  },
+  {
+    "pregunta77": {
+      "pregunta": "",
+      "respuesta_equivocada1": [77, "", false],
+      "respuesta_equivocada2": [77, "", false],
+      "respuesta_correcta": [77, "", true]
+    }
+  },
+  {
+    "pregunta78": {
+      "pregunta": "",
+      "respuesta_equivocada1": [78, "", false],
+      "respuesta_equivocada2": [78, "", false],
+      "respuesta_correcta": [78, "", true]
+    }
+  },
+  {
+    "pregunta79": {
+      "pregunta": "",
+      "respuesta_equivocada1": [79, "", false],
+      "respuesta_equivocada2": [79, "", false],
+      "respuesta_correcta": [79, "", true]
+    }
+  },
+  {
+    "pregunta80": {
+      "pregunta": "",
+      "respuesta_equivocada1": [80, "", false],
+      "respuesta_equivocada2": [80, "", false],
+      "respuesta_correcta": [80, "", true]
+    }
+  },
+  {
+    "pregunta81": {
+      "pregunta": "",
+      "respuesta_equivocada1": [81, "", false],
+      "respuesta_equivocada2": [81, "", false],
+      "respuesta_correcta": [81, "", true]
+    }
+  },
+  {
+    "pregunta82": {
+      "pregunta": "",
+      "respuesta_equivocada1": [82, "", false],
+      "respuesta_equivocada2": [82, "", false],
+      "respuesta_correcta": [82, "", true]
+    }
+  },
+  {
+    "pregunta83": {
+      "pregunta": "",
+      "respuesta_equivocada1": [83, "", false],
+      "respuesta_equivocada2": [83, "", false],
+      "respuesta_correcta": [83, "", true]
+    }
+  },
+  {
+    "pregunta84": {
+      "pregunta": "",
+      "respuesta_equivocada1": [84, "", false],
+      "respuesta_equivocada2": [84, "", false],
+      "respuesta_correcta": [84, "", true]
+    }
+  },
+  {
+    "pregunta85": {
+      "pregunta": "",
+      "respuesta_equivocada1": [85, "", false],
+      "respuesta_equivocada2": [85, "", false],
+      "respuesta_correcta": [85, "", true]
+    }
+  },
+  {
+    "pregunta86": {
+      "pregunta": "",
+      "respuesta_equivocada1": [86, "", false],
+      "respuesta_equivocada2": [86, "", false],
+      "respuesta_correcta": [86, "", true]
+    }
+  },
+  {
+    "pregunta87": {
+      "pregunta": "",
+      "respuesta_equivocada1": [87, "", false],
+      "respuesta_equivocada2": [87, "", false],
+      "respuesta_correcta": [87, "", true]
+    }
+  },
+  {
+    "pregunta88": {
+      "pregunta": "",
+      "respuesta_equivocada1": [88, "", false],
+      "respuesta_equivocada2": [88, "", false],
+      "respuesta_correcta": [88, "", true]
+    }
+  },
+  {
+    "pregunta89": {
+      "pregunta": "",
+      "respuesta_equivocada1": [89, "", false],
+      "respuesta_equivocada2": [89, "", false],
+      "respuesta_correcta": [89, "", true]
+    }
+  },
+  {
+    "pregunta90": {
+      "pregunta": "",
+      "respuesta_equivocada1": [90, "", false],
+      "respuesta_equivocada2": [90, "", false],
+      "respuesta_correcta": [90, "", true]
+    }
+  }
+]
